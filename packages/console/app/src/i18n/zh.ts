@@ -419,7 +419,7 @@ export const dict = {
 
   "workspace.nav.zen": "Zen",
   "workspace.nav.go": "Go",
-  "workspace.nav.usage": "使用量",
+  "workspace.nav.usage": "用量",
   "workspace.nav.apiKeys": "API 密钥",
   "workspace.nav.members": "成员",
   "workspace.nav.billing": "计费",
